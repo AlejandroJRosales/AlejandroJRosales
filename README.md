@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 👋 My name is Alejandro Rosales
+
+I am a Computer Science Graduate student passionate about Quantum Computing. I am working on quantum machine learning. I love learning new things and pursuing a deeper understanding of anything and everything. I also have a lot of fun problem-solving and being creative, so naturally, I enjoy optimizing and building new things; things generally, technology especially. Hence, why this repo is filled with personal projects! :)
+
+I would be happy to collaborate on anything quantum computing-related!
+
+Contact me at: alejand.j.rosales@gmail.com or [LinkedIn](https://www.linkedin.com/in/alejandro-rosales-36ab16191/).
 
 <!--
 **AlejandroJRosales/AlejandroJRosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
