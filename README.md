@@ -1,6 +1,6 @@
 ### Welcome 👋 My name is Alejandro Rosales
 
-I am working on my Master of Science in Computer Science, with a research focus on quantum machine learning. I love learning new things and pursuing a deeper understanding of anything and everything. I also have a lot of fun problem-solving and being creative, so naturally, I enjoy optimizing and building new things; things generally, technology especially. Hence, why this repo is filled with personal projects! :)
+I am working on my Master of Science in Computer Science, with a research focus on quantum computing, quantum machine learning, and quantum error correction. I love learning new things and pursuing a deeper understanding of anything and everything. I also have a lot of fun problem-solving and being creative, so naturally, I enjoy optimizing and building new things; things generally, technology especially. Hence, this repo is filled with personal projects! :)
 
 I would be happy to collaborate on anything quantum computing-related!
 
